@@ -1,0 +1,5 @@
+
+<launch>
+    <node pkg="neuvition_titan" type="neuvition_titan_node"  name="neuvition_titan" output="screen" respawn="true">
+    </node>
+</launch>

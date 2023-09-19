@@ -1,0 +1,8 @@
+outfile_path: "/home/iimt/data/Sensor_Calibration/Camera _Lidar_Calibration/Camera _2DLidar_Calibration/2DLidarCamCalibration/result/calibrate_result.yaml"
+chess_width: 11
+chess_height: 8
+chess_grid_size: 0.04
+input_image_dir: "/home/iimt/data/Sensor_Calibration/Camera _Lidar_Calibration/Camera _2DLidar_Calibration/2DLidarCamCalibration/data/image"
+input_scan_dir: "/home/iimt/data/Sensor_Calibration/Camera _Lidar_Calibration/Camera _2DLidar_Calibration/2DLidarCamCalibration/data/scan"
+visual_chess_dir: "/home/iimt/data/Sensor_Calibration/Camera _Lidar_Calibration/Camera _2DLidar_Calibration/2DLidarCamCalibration/data/chess_visual"
+#文件为1.jpg  1.pcd等类似文件名(激光雷达和图像的名字一样)

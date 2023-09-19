@@ -1,0 +1,18 @@
+{
+    "sndr1-value1": "120",
+    "sndr1-value2": "200",
+    "sndr2-value1": "140",
+    "sndr2-value2": "260",
+    "sndr3-value1": "80",
+    "sndr3-value2": "200",
+    "sndr4-value1": "15",
+    "sndr4-value2": "200",
+    "sndr5-value1": "0",
+    "sndr5-value2": "250",
+    "sndr1_distance": "0.5",
+    "sndr2_distance": "0.8",
+    "sndr3_distance": "1.5",
+    "sndr4_distance": "10",
+    "sndr5_distance": "15"
+   
+}
